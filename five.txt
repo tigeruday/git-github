@@ -1,2 +1,6 @@
 five
+<<<<<<< HEAD
 five
+=======
+six
+>>>>>>> addede again
